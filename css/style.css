@@ -1,3 +1,5 @@
+/* css pour le menu de navigation */
+
 body {
     font-family: 'Source code pro', Calibri, serif;
     margin: 0px;
@@ -43,3 +45,6 @@ nav li:hover a {
     display: table;
     margin: 0 auto;
 }
+
+
+/* css index.html */
