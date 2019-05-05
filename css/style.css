@@ -4,6 +4,7 @@ body {
     font-family: 'Source code pro', Calibri, serif;
     margin: 0px;
     padding: 0px;
+    text-align: center;
 }
 
 nav {
@@ -48,3 +49,6 @@ nav li:hover a {
 
 
 /* css index.html */
+
+
+/* css contact.html */
